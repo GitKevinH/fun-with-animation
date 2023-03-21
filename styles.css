@@ -1,0 +1,29 @@
+
+
+.container1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+
+ol{
+    margin: auto;
+    width: 400px;
+    list-style-position: inside;
+    text-align: left;
+    
+}
+
+body{
+    background-image: url(https://img.freepik.com/premium-vector/fisherman-catching-big-bass-fish-black-white-style_9645-1960.jpg?w=1060);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: bottom;
+  background-size: 200px;
+}
+
+footer{
+    text-align: center;
+}
